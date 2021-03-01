@@ -16,7 +16,7 @@ _Erratum: The above paper claims to be using the plane-wave model for the vanill
 
 In case you decide to use the Sammon's mapping solver for a publication, then you must cite the original FASTA paper:
 
-Tom Goldstein, Christoph Studer, and Richard G. Baraniuk, "A field guide to forward-backward splitting with a FASTA implementation," Technical Report, arXiv preprint:1411.3406, Nov. 2014; available at https://arxiv.org/pdf/1411.3406.pdf
+Tom Goldstein, Christoph Studer, and Richard G. Baraniuk, "A field guide to forward-backward splitting with a FASTA implementation," Technical Report, arXiv preprint: 1411.3406, Nov. 2014; available at https://arxiv.org/pdf/1411.3406.pdf
 
 ### How to start a channel charting simulation
 
