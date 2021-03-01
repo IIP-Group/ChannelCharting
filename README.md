@@ -1,6 +1,6 @@
-# ChannelCharting
+# Simple Channel Charting MATLAB Simulator
 
-Simple channel charting MATLAB simulator with principal component analysis (PCA) and Sammon's mapping (SM) for line-of-sight (LoS) and non-LoS scenarios. 
+Channel charting simulator with principal component analysis (PCA) and Sammon's mapping (SM) for line-of-sight (LoS) and non-LoS scenarios. 
  
 (c) 2016-2021 Christoph Studer, Emre Gonultas, and Said Medjkouh
 
