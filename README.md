@@ -43,7 +43,7 @@ We highly recommend you to execute the code step-by-step (using MATLAB's debug m
 ### Notes
 
 * For the vanilla LoS channel model, you can freely select the system parameters. For the pregenerated Quadriga LoS (QLoS) and non-LoS channels (QNLoS), you can only use the following parameters: U=2048 and B=32. 
-* In order to generate your own Quadriga channel vectors, you need to first install the Quadriga software https://quadriga-channel-model.de/ . We do not provide assistance in doing so, but an example script can be found in the `channels` folder. 
+* In order to generate your own Quadriga channel vectors, you need to first install the Quadriga software https://quadriga-channel-model.de/ . We do not provide assistance in doing so. However, we provide a script to generate channel vectors; the MATLAB script can be found in the `channels` folder. 
 * You can easily add your own (or modify our) channel charting functions below the `switch par.DRmethod` statement. 
 * You can easily add your own (or modify our) channel-state information (CSI) feature extraction method. 
 
